@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: rgb(36,0,0);
+    background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(57,5,96,1) 18%, rgba(76,9,192,1) 49%, rgba(30,9,192,1) 70%, rgba(192,9,93,1) 100%);
+}
+.pre-header {
+    background-color: #2b2b30;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.pre-header h2 {
+    padding-bottom: 10px;
+    padding-top: 15px;
+    color: #bfc0c0;
+}
+
+.pre-header h1 {
+    color: #2b13e4;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(88,9,121,1) 30%, rgba(0,212,255,1) 100%);
+    width: 17rem;
+}
+.pre-header img {
+    display: block;
+    margin-bottom: -30px;
+    position: relative;
+    bottom: -30px;
+    padding-left: 100px;
+}
+.pre-header .container  ul li  {
+    display: inline;
+    margin-left: 10px;
+}
+.main-nav h1 {
+    color: #000000;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+ .main-num {
+    background-color: #1c2021;
+    color: #fff;
+}
+ .main-num h4 {
+     padding-bottom: 10px;
+     padding-top: 10px;
+     color: #e42413;
+ }
+ .main-num .container img {
+     padding-top: 90px;
+     padding-left: 35px;
+ }
+ .main-num .container h4 {
+     padding-top: 30px;
+ }
+ .customer-section  h1 {
+     color: #000000;
+     text-align: center;
+     padding-top: 15px;
+     padding-bottom: 15px;
+ }
+ .about-section {
+     background-color: #1c2021;
+ }
+.about-section .container {
+    color: #d0cdcd;
+
+}
+.about-section .container h4 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.about-section .container .imag img {
+    padding-top: 30px;
+    padding-left: 60px;
+}
+.about-section .container .imag h4 {
+    padding-left: 40px;
+}
+.about-section .container .new img {
+    padding-left: 35px;
+    padding-top: 40px;
+}
+.down  {
+    color: #003d05;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.download {
+    background-color: #1c2021;
+    color: #fff;
+}
+.download h3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.download h4 {
+    padding-left: 30px;
+    color: blue;
+}
+.download .container .state {
+    padding-left: 40px;
+}
+.download .container .photo img  {
+    display: block;
+    position: relative;
+    padding-left: 60px;
+    bottom: -20px;
+}
+.con h1 {
+    text-align: center;
+    color: #fff;
+}
+.contact  {
+    background-color: #2b2b30;
+}
+.contact .container {
+    padding-top: 30px;
+}
+.contact .main-menu li {
+    display: inline;
+    margin-left: 15px;
+}
+.contact .container p {
+    padding-top: 25px;
+    color: #fff;
+}
